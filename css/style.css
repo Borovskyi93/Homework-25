@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.table_class {
+    margin: 100px auto;
+    border: 1px solid;
+}
+
+.td_class {
+    font-size: 1.3rem;
+    text-align: center;
+    border: 1px solid lightgray;
+}
